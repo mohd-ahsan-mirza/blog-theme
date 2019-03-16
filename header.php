@@ -14,6 +14,5 @@
 		<script src="<?php echo site_url('/wp-content/themes/blogtheme/js/skel.min.js'); ?>"></script>
 		<script src="<?php echo site_url('/wp-content/themes/blogtheme/js/util.js'); ?>"></script>
 		<script src="<?php echo site_url('/wp-content/themes/blogtheme/js/main.js'); ?>"></script>
-		<link rel="icon" href="/logo.png">
 	</head>
 	<body>
