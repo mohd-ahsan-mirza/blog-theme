@@ -39,6 +39,9 @@
                     $(".after-load").removeClass('no-animation');
                     $body.removeClass('loader');
 				}, 1);
+					$("#banner").attr("data-bg","banner.jpg");
+					$("#banner").css("background-image",'url(../images/' + "banner.jpg" + ')')
+					$("#banner").show();
                     while($("#"+bannerIndex).length != 0){
                         $("#"+bannerIndex).attr("data-bg","banner"+bannerIndex+".jpg");
                         $("#"+bannerIndex).css("background-image",'url(../images/' + "banner"+bannerIndex+".jpg" + ')')

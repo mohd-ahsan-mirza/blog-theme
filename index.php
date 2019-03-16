@@ -62,7 +62,7 @@
 			}
 			else{
 		?>
-			<section id="banner" class="bg-img" style="background-image: url('../images/banner4.jpg');">
+			<section id="banner" class="bg-img">
 				<div class="inner">
 					<header>
 						<h1>Working towards being extraordinary</h1>
