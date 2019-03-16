@@ -42,7 +42,7 @@
 					</ul>
 
 					<div class="copyright">
-						&copy; Copyright 2018 Ahsan Mirza
+						&copy; Copyright 2019 Ahsan Mirza
 					</div>
 
 				</div>
